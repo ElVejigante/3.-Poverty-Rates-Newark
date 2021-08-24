@@ -1,5 +1,5 @@
-*2019 US Census Poverty Rates in Newark, NJ*
-
+**2019 US Census Poverty Rates in Newark, NJ**
+*By Zip Code*
 Before running Jupyter notebook (Newark Poverty Rate.ipynb) make sure you have the following:
 
 1. Your Google API key as g_key AND Census API key as census_key in the file named config.py.
