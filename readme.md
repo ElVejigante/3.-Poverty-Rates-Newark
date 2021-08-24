@@ -1,4 +1,4 @@
-For Poverty Analysis portion of the group project:
+*2019 US Census Poverty Rates in Newark, NJ*
 
 Before running Jupyter notebook (Newark Poverty Rate.ipynb) make sure you have the following:
 
